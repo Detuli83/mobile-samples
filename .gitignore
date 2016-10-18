@@ -86,3 +86,7 @@ CoinTime/CoinTime/Assets/Content/animations/propanimations.aeproperties
 CCDrawNode/Screenshots/Thumbs.db
 FruityFalls/FruityFalls/FruityFalls.Android/Assets/Content/Sounds/AndroidObj/
 FruityFalls/FruityFalls/FruityFalls.Android/Assets/Content/Sounds/iOSObj/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
